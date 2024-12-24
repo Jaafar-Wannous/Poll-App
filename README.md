@@ -1,7 +1,6 @@
 # Poll Application
 
-A Laravel-based Poll Application designed to create and manage polls dynamically using **Livewire**. This project highlights the power of PHP-driven interactivity without relying on JavaScript frameworks.
-
+A Laravel-based Poll Application designed to create and manage polls dynamically using **Livewire**
 ## Features
 
 ### 1. **Poll Creation**
